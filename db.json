@@ -1,0 +1,55 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "stuname": "Sudipta Bose",
+      "fatherName": "Pradip Bose",
+      "dob": "",
+      "email": "sonam@example.com",
+      "phnnNumber": 123456789,
+      "address": "R45,Jadavpur,",
+      "city": "kolkata",
+      "pin": 70000,
+      "state": "West-Bengal",
+      "class": "12",
+      "marks": 99,
+      "date": ""
+    },
+    {
+      "stuname": "",
+      "email": "",
+      "": "wwwwwwwww",
+      "id": 2
+    },
+    {
+      "stuname": "",
+      "email": "sudiptabose96@gmail.com",
+      "": "ewew",
+      "id": 3
+    },
+    {
+      "stuname": "",
+      "email": "",
+      "id": 4
+    },
+    {
+      "stuname": "",
+      "email": "",
+      "id": 5
+    },
+    {
+      "stuname": "sssssssssssssss",
+      "email": "sudiptabose66@gmail.com",
+      "": "eeeeeeeeeeeeee",
+      "phnNumber": "1111111111111111111111",
+      "address": "ssssssssssss",
+      "state": "rrrrrrrrrrrrrrrr",
+      "city": "rrrrrrrrrrrrrrrr",
+      "pin": "1111111111111",
+      "class": "11",
+      "marks": "11",
+      "date": "1111111111",
+      "id": 6
+    }
+  ]
+}
